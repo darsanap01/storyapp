@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Whispers of the Little Village",
+    "description": "A gentle tale from a quiet village where small moments become lasting memories.",
+    "text": "Once upon a time, in a quiet little village surrounded by green fields and tall trees, there lived a curious child who loved listening to stories. Every evening, as the sun dipped below the horizon, the child would sit near the window and imagine magical worlds beyond the hills.\n\nOne day, the child discovered an old notebook hidden inside a wooden box. The pages were yellowed with time, but the words felt alive. As the child began to read, the village transformed into a place of wonder. Birds seemed to sing louder, the wind whispered secrets, and even the stars appeared closer.\n\nThis first story is about finding magic in ordinary moments and understanding that every small experience can become a beautiful memory when seen with imagination and hope.",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534420618/if-this-were-a-story-9781534420618_lg.jpg",
+    "audio_path": "audio/story_voicenote.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Beyond the Familiar Path",
+    "description": "An adventurous tale that explores courage, friendship, and the excitement of discovering the unknown.",
+    "text": "The second story begins on a bright morning when a young explorer decided to leave home and see what lay beyond the familiar paths. With a small backpack and a heart full of excitement, the journey began.\n\nAlong the way, the explorer met new friends — a playful dog, a wise old bird, and a river that seemed to speak through its flowing waters. Each encounter brought a new lesson about trust, bravery, and kindness.\n\nAs challenges appeared, the explorer learned that adventure is not just about reaching a destination, but about growing stronger and wiser with every step. By the end of the journey, home felt different — richer with stories, experiences, and newfound confidence.",
+    "image": "https://images.template.net/174737/free-simple-children-s-story-book-cover-template-edit-online.jpg",
+    "audio_path": "audio/second_story_voice.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Pages of Endless Dreams",
+    "description": "A heartwarming story that celebrates imagination, books, and the power of dreams.",
+    "text": "In a world where books were seen as ordinary objects, one child believed they were gateways to endless possibilities. Every page turned opened a door to a new land filled with heroes, mysteries, and dreams waiting to be discovered.\n\nThis story follows the child’s journey through stories that inspired courage, creativity, and compassion. Each book became a teacher, showing that knowledge is powerful and dreams are worth chasing.\n\nAs the story unfolds, it reminds us that reading is more than a habit — it is an adventure of the mind that shapes who we become and how we see the world.",
+    "image": "https://img.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_23-2149312149.jpg?semt=ais_hybrid&w=740&q=80",
+    "audio_path": "audio/story_voice.mp3"
+  }
+]
